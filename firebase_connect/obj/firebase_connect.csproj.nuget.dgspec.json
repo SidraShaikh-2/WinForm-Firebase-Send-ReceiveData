@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Sidra\\Github\\RVM GUI - FIREBASE DATA RETRIVE & SEND\\firebase_connect\\firebase_connect\\firebase_connect.csproj": {}
+  },
+  "projects": {
+    "F:\\Sidra\\Github\\RVM GUI - FIREBASE DATA RETRIVE & SEND\\firebase_connect\\firebase_connect\\firebase_connect.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Sidra\\Github\\RVM GUI - FIREBASE DATA RETRIVE & SEND\\firebase_connect\\firebase_connect\\firebase_connect.csproj",
+        "projectName": "firebase_connect",
+        "projectPath": "F:\\Sidra\\Github\\RVM GUI - FIREBASE DATA RETRIVE & SEND\\firebase_connect\\firebase_connect\\firebase_connect.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\Sidra\\Github\\RVM GUI - FIREBASE DATA RETRIVE & SEND\\firebase_connect\\firebase_connect\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FireSharp.Serialization.JsonNet": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
